@@ -1,5 +1,4 @@
-Olá! Me chamo Thomas e sou estudante do curso Técnico em Informática para Internet no Senac. Durante o curso, estou me capacitando em:
-
+Olá! Sou estudante do curso Técnico em Informática para Internet no Senac. Durante o curso, estou me capacitando em:
 🖥️ Desenvolvimento de serviços web , como sites e aplicações.
 🎨 Codificação Front-end e Back-end , aplicando boas práticas de programação.
 Minha paixão por tecnologia 🚀
