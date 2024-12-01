@@ -1,11 +1,26 @@
-Olá! Sou estudante do curso Técnico em Informática para Internet no Senac. Durante o curso, estou me capacitando em:
-🖥️ Desenvolvimento de serviços web , como sites e aplicações.
-🎨 Codificação Front-end e Back-end , aplicando boas práticas de programação.
-Minha paixão por tecnologia 🚀
-Desde cedo, sou fascinado por tudo que envolve tecnologia e inovação. Adoro explorar novos conhecimentos e sempre busco crescer no que faço, com a meta de criar projetos que impactem positivamente as pessoas.
-🎯 Meta atual: Desenvolver meu primeiro site profissional com todas as boas práticas aprendidas no curso!
-Meus hobbies 🌊
-Nos momentos de lazer, gosto de desconectar um pouco do mundo digital e aproveitar:
-🏄‍♂️ Surfar e velejar pelo alto-mar.
-🎣 Pescar e apreciar o contato com a natureza.
-📫 Entre em contato: Fique à vontade para trocar ideias, compartilhar dicas ou até mesmo colaborar em projetos!
+# Perfil Profissional  
+
+## Sobre Mim  
+Sou estudante do **Curso Técnico em Informática para Internet** no **SENAC**, onde estou me capacitando em tecnologias para o desenvolvimento de serviços web e programação.  
+Minha paixão por tecnologia e inovação me motiva a explorar novos conhecimentos e criar soluções que gerem impacto positivo.  
+
+## Capacidades Desenvolvidas  
+- **Desenvolvimento de Serviços Web**: Criação de sites e aplicações funcionais e intuitivas.  
+- **Codificação Front-end e Back-end**: Utilização de boas práticas para garantir a qualidade e a eficiência dos projetos.  
+
+## Meta Atual  
+🎯 **Desenvolver meu primeiro site profissional**, aplicando todas as boas práticas e conhecimentos adquiridos durante o curso.  
+
+## Hobbies e Interesses  
+Nos momentos de lazer, gosto de me desconectar do digital e aproveitar atividades ao ar livre:  
+- 🏄‍♂️ **Surfar e velejar**: Aventuras no alto-mar.  
+- 🎣 **Pescar**: Conexão e tranquilidade na natureza.  
+
+## Como Colaborar  
+📫 Sinta-se à vontade para:  
+- Trocar ideias e compartilhar dicas;  
+- Colaborar em projetos;  
+- Contribuir para o aprendizado e o crescimento mútuo.  
+
+Vamos criar juntos! 🚀  
+
