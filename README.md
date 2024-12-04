@@ -33,12 +33,12 @@ Vamos construir algo incrível juntos! 🚀
 ---
 
 <p align="center">
-  <a href="https://github.com/seu-usuario">
-    <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+  <a href="https://github.com/Tkr7-Alice">
+    <img src="https://github-readme-stats.vercel.app/api?username=Tkr7-Alice&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/seu-usuario">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Linguagens mais usadas">
+  <a href="https://github.com/Tkr7-Alice">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tkr7-Alice&layout=compact&theme=radical" alt="Linguagens mais usadas">
   </a>
 </p>
