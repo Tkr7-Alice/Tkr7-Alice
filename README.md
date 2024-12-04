@@ -1,27 +1,44 @@
-# Perfil Profissional
+# 👋 Sobre Mim  
+Olá! Sou estudante do Curso Técnico em Informática para Internet no **SENAC**, focado em desenvolvimento de serviços web e programação. Sou movido pela curiosidade e pela vontade de criar soluções que conectem tecnologia e acessibilidade.  
 
-## Sobre Mim  
-Sou estudante do **Curso Técnico em Informática para Internet** no **SENAC**, com foco em **desenvolvimento de serviços web** e **programação**. Minha paixão por **tecnologia e inovação** me leva a explorar novas possibilidades, criando soluções impactantes que contribuem para um futuro mais tecnológico e acessível.
+---
 
-## Capacidades Desenvolvidas  
-- **Desenvolvimento de Serviços Web**: Criação de sites e aplicações web funcionais e responsivas.  
-- **Codificação Front-end e Back-end**: Aplicação de boas práticas de programação, como **HTML**, **CSS**, **JavaScript**, e **PHP**, para garantir qualidade e eficiência nos projetos.  
+## 💻 Habilidades e Ferramentas  
+- **Desenvolvimento Web**: Criação de sites e aplicações web responsivas.  
+- **Front-end e Back-end**: Trabalho com tecnologias como **HTML**, **CSS**, **JavaScript** e **PHP**, sempre seguindo boas práticas.  
 
-## Meta Atual  
-🎯 **Desenvolver meu primeiro site profissional**, aplicando tudo o que aprendi sobre boas práticas de desenvolvimento web, design responsivo e otimização de SEO.
+---
 
-## Hobbies e Interesses  
-Quando não estou programando, gosto de me desconectar e explorar outras atividades:  
-- 🏄‍♂️ **Surfar e velejar**: Exploro o mar e a liberdade que ele proporciona.  
-- 🎣 **Pescar**: Busco tranquilidade e conexão com a natureza.  
-- 🥁 **Aprendendo a tocar bateria**: Um novo desafio que tem se tornado uma grande paixão.
+## 🚀 Objetivo Atual  
+🎯 Construir meu primeiro site profissional, aplicando tudo que aprendi sobre desenvolvimento web, design responsivo e SEO.  
 
-## Como Colaborar  
-📫 Sinta-se à vontade para me contatar para:  
-- Trocar ideias e dicas sobre desenvolvimento;  
-- Colaborar em projetos de código aberto ou novos desafios;  
-- Contribuir para o meu aprendizado e crescimento profissional.
+---
 
-Vamos criar juntos! 🚀
+## 🎣 Além da Programação  
+Quando não estou no código, estou explorando outros hobbies:  
+- 🏄‍♂️ **Navegar e velejar**: Nada como a liberdade do mar.  
+- 🎣 **Pescar**: Um momento para recarregar as energias na natureza.  
+- 🥁 **Bateria**: Aprendendo a transformar ritmo em som – e me apaixonando no processo.  
 
+---
 
+## 🤝 Como Conectar?  
+Adoro colaborar em projetos e trocar ideias sobre tecnologia. Me chame para:  
+- 💡 Bater um papo sobre desenvolvimento;  
+- 🤝 Trabalhar em projetos de código aberto ou novos desafios;  
+- 📚 Compartilhar conhecimentos e crescer juntos.  
+
+Vamos construir algo incrível juntos! 🚀  
+
+---
+
+<p align="center">
+  <a href="https://github.com/seu-usuario">
+    <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/seu-usuario">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Linguagens mais usadas">
+  </a>
+</p>
