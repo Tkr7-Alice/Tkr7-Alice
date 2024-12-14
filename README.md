@@ -5,12 +5,12 @@ Olá! Sou estudante do Curso Técnico em Informática para Internet no **SENAC**
 
 ## 💻 Habilidades e Ferramentas  
 - **Desenvolvimento Web**: Criação de sites e aplicações web responsivas.  
-- **Front-end e Back-end**: Trabalho com tecnologias como **HTML**, **CSS**, **JavaScript** e **PHP**, sempre seguindo boas práticas.  
+- **Front-end e Aplicações para Web**: Trabalho com tecnologias como **HTML**, **CSS**, **JavaScript** e **PHP**, sempre seguindo boas práticas.  
 
 ---
 
 ## 🚀 Objetivo Atual  
-🎯 Construir meu primeiro site profissional, aplicando tudo que aprendi sobre desenvolvimento web, design responsivo e SEO.  
+🎯 Aprofundar meus conhecimentos em **SEO (Search Engine Optimization)** para desenvolver projetos que entreguem maior visibilidade e impacto nos mecanismos de busca.  
 
 ---
 
@@ -39,6 +39,4 @@ Vamos construir algo incrível juntos! 🚀
 </p>
 <p align="center">
   <a href="https://github.com/Tkr7-Alice">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tkr7-Alice&layout=compact&theme=radical" alt="Linguagens mais usadas">
-  </a>
-</p>
+   
