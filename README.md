@@ -44,12 +44,8 @@ Gosto de colaborar e trocar experiências. Vamos conversar sobre:
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula)
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dracula&hide_border=false)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SEU_USUARIO&theme=dracula)
-
----
-
-> Substitua `SEU_USUARIO` pelo seu nome de usuário no GitHub para que tudo funcione corretamente.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tkr7-Alice&show_icons=true&theme=dracula&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tkr7-Alice&layout=compact&theme=dracula)
+![GitHub Streak](https://streak-stats.demolab.com?user=Tkr7-Alice&theme=dracula&hide_border=false)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tkr7-Alice&theme=dracula)
 
