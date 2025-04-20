@@ -1,42 +1,55 @@
-# 👋 Sobre Mim  
-Olá! Sou estudante do Curso Técnico em Informática para Internet no **SENAC**, focado em desenvolvimento de serviços web e programação. Sou movido pela curiosidade e pela vontade de criar soluções que conectem tecnologia e acessibilidade.  
+# 👋 Sobre Mim
+
+Olá! Sou estudante do **Curso Técnico em Informática para Internet** no **SENAC**, com foco em **desenvolvimento de serviços web** e **programação**. Movido pela curiosidade e pela vontade de criar soluções que unam **tecnologia, acessibilidade e impacto social**.
 
 ---
 
-## 💻 Habilidades e Ferramentas  
-- **Desenvolvimento Web**: Criação de sites e aplicações web responsivas.  
-- **Front-end e Aplicações para Web**: Trabalho com tecnologias como **HTML**, **CSS**, **JavaScript** e **PHP**, sempre seguindo boas práticas.  
+## 💻 Habilidades e Ferramentas
+
+### 🔧 Desenvolvimento Web
+- Criação de **sites e aplicações web responsivas**, com foco em performance e acessibilidade.
+- **Codificação front-end** com **HTML, CSS, JavaScript e PHP**, aplicando boas práticas e design semântico.
+- Integração com **Git e GitHub** para versionamento e colaboração.
+- **Desenvolvimento de algoritmos** com **Python** e **Portugol**, voltado para resolução de problemas e lógica de programação.
 
 ---
 
-## 🚀 Objetivo Atual  
-🎯 Aprofundar meus conhecimentos em **SEO (Search Engine Optimization)** para desenvolver projetos que entreguem maior visibilidade e impacto nos mecanismos de busca.  
+## 🚀 Objetivo Atual
+
+🎯 **Aprofundar meus conhecimentos em SEO (Search Engine Optimization)** para desenvolver projetos com maior visibilidade e impacto nos mecanismos de busca.
 
 ---
 
-## 🎣 Além da Programação  
-Quando não estou no código, estou explorando outros hobbies:  
-- 🏄‍♂️ **Navegar e velejar**: Nada como a liberdade do mar.  
-- 🎣 **Pescar**: Um momento para recarregar as energias na natureza.  
-- 🥁 **Bateria**: Aprendendo a transformar ritmo em som – e me apaixonando no processo.  
+## 🎣 Além da Programação
+
+Fora do código, gosto de explorar hobbies que inspiram minha criatividade e foco:
+
+- 🏄‍♂️ **Navegar e velejar**: a liberdade do mar como inspiração.
+- 🎣 **Pescar**: um momento de conexão com a natureza.
+- 🥁 **Bateria**: transformando ritmo em música e paixão.
 
 ---
 
-## 🤝 Como Conectar?  
-Adoro colaborar em projetos e trocar ideias sobre tecnologia. Me chame para:  
-- 💡 Bater um papo sobre desenvolvimento;  
-- 🤝 Trabalhar em projetos de código aberto ou novos desafios;  
-- 📚 Compartilhar conhecimentos e crescer juntos.  
+## 🤝 Como Conectar?
 
-Vamos construir algo incrível juntos! 🚀  
+Gosto de colaborar e trocar experiências. Vamos conversar sobre:
+
+- 💡 Desenvolvimento web, lógica e acessibilidade;
+- 🤝 Projetos colaborativos ou código aberto;
+- 📚 Compartilhar aprendizados e crescer juntos.
+
+**Vamos construir algo incrível juntos! 🚀**
 
 ---
 
-<p align="center">
-  <a href="https://github.com/Tkr7-Alice">
-    <img src="https://github-readme-stats.vercel.app/api?username=Tkr7-Alice&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Tkr7-Alice">
-   
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula)
+![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dracula&hide_border=false)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=SEU_USUARIO&theme=dracula)
+
+---
+
+> Substitua `SEU_USUARIO` pelo seu nome de usuário no GitHub para que tudo funcione corretamente.
+
