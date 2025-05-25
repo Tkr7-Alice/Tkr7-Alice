@@ -1,51 +1,49 @@
 # 👋 Sobre Mim
 
-Olá! Sou estudante do **Curso Técnico em Informática para Internet** no **SENAC**, com foco em **desenvolvimento de serviços web** e **programação**. Movido pela curiosidade e pela vontade de criar soluções que unam **tecnologia, acessibilidade e impacto social**.
+Olá! Sou estudante do **Curso Técnico em Informática para Internet** no **SENAC**, focado no desenvolvimento de **aplicações web acessíveis e impactantes**. Tenho paixão por criar soluções que aliem **tecnologia, acessibilidade e impacto social**.
+
+Atualmente, estou me aprofundando no **desenvolvimento back-end** e em **SEO (Search Engine Optimization)** para melhorar a performance e a visibilidade dos meus projetos.
 
 ---
 
-## 💻 Habilidades e Ferramentas
+## 💻 Habilidades
 
-### 🔧 Desenvolvimento Web
-- Criação de **sites e aplicações web responsivas**, com foco em performance e acessibilidade.
-- **Codificação front-end** com **HTML, CSS, JavaScript e PHP**, aplicando boas práticas e design semântico.
-- Integração com **Git e GitHub** para versionamento e colaboração.
-- **Desenvolvimento de algoritmos** com **Python** e **Portugol**, voltado para resolução de problemas e lógica de programação.
-
----
-
-## 🚀 Objetivo Atual
-
-🎯 **Aprofundar meus conhecimentos em SEO (Search Engine Optimization)** para desenvolver projetos com maior visibilidade e impacto nos mecanismos de busca.
+- **Front-End:** HTML5, CSS3, JavaScript, PHP  
+- **Back-End (em evolução):** Lógica, APIs e estrutura de dados  
+- **Algoritmos e lógica:** Python e Portugol  
+- **Versionamento:** Git e GitHub  
+- **Boas práticas:** Acessibilidade, responsividade e SEO  
 
 ---
 
-## 🎣 Além da Programação
+## 🎯 Objetivo Atual
 
-Fora do código, gosto de explorar hobbies que inspiram minha criatividade e foco:
-
-- 🏄‍♂️ **Navegar e velejar**: a liberdade do mar como inspiração.
-- 🎣 **Pescar**: um momento de conexão com a natureza.
-- 🥁 **Bateria**: transformando ritmo em música e paixão.
+Aprofundar meus conhecimentos em **Back-End** e **SEO**, criando aplicações web mais rápidas, acessíveis e bem posicionadas nos mecanismos de busca.
 
 ---
 
-## 🤝 Como Conectar?
+## 🌊 Além do Código
 
-Gosto de colaborar e trocar experiências. Vamos conversar sobre:
-
-- 💡 Desenvolvimento web, lógica e acessibilidade;
-- 🤝 Projetos colaborativos ou código aberto;
-- 📚 Compartilhar aprendizados e crescer juntos.
-
-**Vamos construir algo incrível juntos! 🚀**
+- 🏄‍♂️ **Surfar**: equilíbrio, foco e conexão com o mar  
+- 🥁 **Bateria**: criatividade em forma de ritmo  
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🤝 Vamos Colaborar?
+
+Estou aberto a:
+
+- Projetos web (front e back-end)
+- Contribuições em código aberto
+- Trocas de experiências sobre lógica, acessibilidade e boas práticas
+
+> **Vamos construir algo incrível juntos! 🚀**
+
+---
+
+## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tkr7-Alice&show_icons=true&theme=dracula&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tkr7-Alice&layout=compact&theme=dracula)
-![GitHub Streak](https://streak-stats.demolab.com?user=Tkr7-Alice&theme=dracula&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=Tkr7-Alice&theme=dracula)
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tkr7-Alice&theme=dracula)
-
