@@ -1,49 +1,61 @@
-# 👋 Sobre Mim
+<h1 align="center">👋 Olá, eu sou Tkr7-Alice</h1>
 
-Olá! Sou estudante do **Curso Técnico em Informática para Internet** no **SENAC**, focado no desenvolvimento de **aplicações web acessíveis e impactantes**. Tenho paixão por criar soluções que aliem **tecnologia, acessibilidade e impacto social**.
-
-Atualmente, estou me aprofundando no **desenvolvimento back-end** e em **SEO (Search Engine Optimization)** para melhorar a performance e a visibilidade dos meus projetos.
-
----
-
-## 💻 Habilidades
-
-- **Front-End:** HTML5, CSS3, JavaScript, PHP  
-- **Back-End (em evolução):** Lógica, APIs e estrutura de dados  
-- **Algoritmos e lógica:** Python e Portugol  
-- **Versionamento:** Git e GitHub  
-- **Boas práticas:** Acessibilidade, responsividade e SEO  
+<p align="center">
+  🌐 Estudante de <strong>Informática para Internet</strong> no SENAC <br>
+  💡 Foco em <strong>Desenvolvimento Web</strong>, <strong>Back-End</strong> e <strong>SEO</strong> <br>
+  🚀 Em busca de projetos com impacto social e acessibilidade
+</p>
 
 ---
 
-## 🎯 Objetivo Atual
+## 💻 Tecnologias que uso
 
-Aprofundar meus conhecimentos em **Back-End** e **SEO**, criando aplicações web mais rápidas, acessíveis e bem posicionadas nos mecanismos de busca.
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" alt="GitHub" />
+</div>
 
 ---
 
-## 🌊 Além do Código
+## 🚀 Atualmente estudando
 
-- 🏄‍♂️ **Surfar**: equilíbrio, foco e conexão com o mar  
-- 🥁 **Bateria**: criatividade em forma de ritmo  
-
----
-
-## 🤝 Vamos Colaborar?
-
-Estou aberto a:
-
-- Projetos web (front e back-end)
-- Contribuições em código aberto
-- Trocas de experiências sobre lógica, acessibilidade e boas práticas
-
-> **Vamos construir algo incrível juntos! 🚀**
+- Back-End com PHP e Python
+- Estrutura de banco de dados
+- Otimização com SEO
+- Boas práticas de acessibilidade
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tkr7-Alice&show_icons=true&theme=dracula&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tkr7-Alice&layout=compact&theme=dracula)
-![GitHub Streak](https://streak-stats.demolab.com?user=Tkr7-Alice&theme=dracula)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Tkr7-Alice&theme=dracula)
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tkr7-Alice&show_icons=true&theme=dracula&count_private=true" alt="Estatísticas GitHub" />
+<img height="170" src="https://streak-stats.demolab.com?user=Tkr7-Alice&theme=dracula" alt="GitHub Streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tkr7-Alice&layout=compact&theme=dracula" alt="Linguagens mais usadas" />
+
+</div>
+
+---
+
+## 🌊 Além do código
+
+- 🏄‍♂️ Surfar: liberdade e foco no presente  
+- 🥁 Tocar bateria: ritmo e expressão criativa  
+
+---
+
+## 🤝 Vamos conversar?
+
+- 📬 Me chame para colaborar em projetos de código aberto ou freelance
+- 🌐 Interesse em causas sociais, educação e acessibilidade digital
+- 💡 Compartilhar ideias, crescer juntos!
+
+---
+
+<p align="center">✨ Obrigado por visitar meu perfil! ✨</p>
