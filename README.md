@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Tkr7-Alice</h1>
+<h1 align="center">👋 Olá, eu sou Thomas</h1>
 
 <p align="center">
   🌐 Estudante de <strong>Informática para Internet</strong> no SENAC <br>
