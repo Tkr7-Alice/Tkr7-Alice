@@ -1,4 +1,4 @@
-# 🌑⚡ **Thomas Kirmeier — Dark Mode Edition**
+# 🌑⚡ **Thomas Kirmeier — Edição Modo Escuro**
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F0FF&center=true&vCenter=true&width=750&lines=Desenvolvedor+Web+%26+Mobile;Back-End+em+Evolução;Código+Limpo+%7C+Alta+Performance;Dark+Mode+Is+My+Energy" />
@@ -15,9 +15,7 @@
 
 ---
 
-# 🧠 **Tech Stack**
-
----
+# 🧠 **Conjunto de Tecnologias**
 
 ### 🌐 Front-End
 ```text
@@ -26,8 +24,6 @@ UI/UX • Interfaces Responsivas
 Figma → Pixel to Code
 ```
 
----
-
 ### ⚙️ Back-End
 ```text
 PHP • Python
@@ -35,23 +31,17 @@ Node.js • Express (em evolução)
 REST APIs • CRUD • Autenticação
 ```
 
----
-
 ### 📱 Mobile
 ```text
 Flutter • Dart
 Arquitetura básica e projetos reais
 ```
 
----
-
 ### 🗄 Banco de Dados
 ```text
 MySQL • MariaDB
 MongoDB (aprendizado ativo)
 ```
-
----
 
 ### 🛠 Ferramentas
 ```text
@@ -61,7 +51,7 @@ Git/GitHub • Postman • Docker (básico)
 
 ---
 
-# 🔥 **Stats — Neon Mode**
+# 🔥 **Estatísticas — Modo Neon**
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThomasKirmeier&show_icons=true&theme=tokyonight&bg_color=00000000&title_color=00F0FF&icon_color=00F0FF" />
@@ -78,7 +68,7 @@ Git/GitHub • Postman • Docker (básico)
 
 ---
 
-# 🧬 **Atividade — Cyberspace Graph**
+# 🧬 **Atividade — Gráfico do Ciberespaço**
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThomasKirmeier&theme=react-dark&area=true&hide_border=true&color=00F0FF&line=00F0FF&point=00F0FF" />
@@ -86,7 +76,7 @@ Git/GitHub • Postman • Docker (básico)
 
 ---
 
-# 🐍 **Snake Mode — Neon Grid**
+# 🐍 **Modo Cobra — Grade Neon**
 
 <div align="center">
   <img src="https://github.com/ThomasKirmeier/ThomasKirmeier/blob/output/github-contribution-grid-snake.svg" />
@@ -96,20 +86,19 @@ Git/GitHub • Postman • Docker (básico)
 
 # 🌐 **Conecte-se Comigo**
 
-**📬 Email:**  
+📬 **E-mail:**  
 ➡️ **thomas.kirmeier@gmail.com**
 
-**🔗 Portfólio:**  
+🔗 **Portfólio:**  
 ➡️ *(em construção — preparando algo insano!)*
 
-**📱 Instagram:**  
+📱 **Instagram:**  
 ➡️ **[@t.kirmeier](https://instagram.com/t.kirmeier)**
-
 
 ---
 
 <div align="center">
-  
-### 🚀 *Simplicidade, clareza e propósito — esse é o meu código.*
+
+### 🚀 **Simplicidade, clareza e propósito — esse é o meu código.**
 
 </div>
