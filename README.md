@@ -22,3 +22,41 @@
 HTML5 • CSS3 • JavaScript
 UI/UX • Interfaces Responsivas
 Figma → Pixel to Code
+
+⚙️ Back-End
+PHP • Python
+Node.js • Express (em evolução)
+REST APIs • CRUD • Autenticação
+
+📱 Mobile
+Flutter • Dart
+Arquitetura básica e projetos reais
+
+🗄 Banco de Dados
+MySQL • MariaDB
+MongoDB (aprendizado ativo)
+
+🛠 Ferramentas
+VS Code • Android Studio
+Git/GitHub • Postman • Docker (básico)
+
+🔥 Stats — Neon Mode
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThomasKirmeier&show_icons=true&theme=tokyonight&bg_color=00000000&title_color=00F0FF&icon_color=00F0FF" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasKirmeier&layout=compact&theme=tokyonight&bg_color=00000000&title_color=00F0FF" /> </div>
+🌩️ GitHub Streak (Modo Hacker)
+<div align="center"> <img src="https://streak-stats.demolab.com?user=ThomasKirmeier&theme=tokyonight&background=00000000&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" /> </div>
+🧬 Atividade — Cyberspace Graph
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThomasKirmeier&theme=react-dark&area=true&hide_border=true&color=00F0FF&line=00F0FF&point=00F0FF" /> </div>
+🐍 Snake Mode — Neon Grid
+<div align="center"> <img src="https://github.com/ThomasKirmeier/ThomasKirmeier/blob/output/github-contribution-grid-snake.svg" /> </div>
+🌐 Conecte-se comigo
+<div align="center">
+
+🔗 Portfólio: em construção
+📬 Email: thomas.kirmeier@gmail.com
+📱 Instagram: [seu-IG](https://www.instagram.com/t.kirmeier/)
+
+</div>
+<div align="center">
+⚡ "No escuro, o foco brilha mais."
+</div> ```
+
