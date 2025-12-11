@@ -5,8 +5,8 @@
 # 🌑⚡ **Thomas Kirmeier — Perfil Oficial**
 
 ### Desenvolvedor Web & Mobile  
-### Back-End em evolução • Foco em código limpo e alta performance  
-### Especialista em Modo Escuro 😎
+### Back-End em evolução • Código limpo • Alta performance  
+### Dark Mode Lover 😎
 
 </div>
 
@@ -15,75 +15,75 @@
 ## 🚀 Sobre Mim
 
 Sou estudante de Informática para Internet no SENAC e desenvolvedor em constante evolução.  
-Todos os dias busco melhorar meu código, aprender novas tecnologias e construir projetos reais.
+Busco melhorar meu código todos os dias, criando projetos reais e explorando novas tecnologias.
 
 > **"Estudo. Construo. Melhoro. Repito."**
 
 ---
 
-# 🧩 Tecnologias
+## 🧩 Tecnologias
 
-## 🌐 **Front-End**
-- **HTML5**  
-- **CSS3**  
-- **JavaScript**  
-- **UI/UX**  
-- **Figma → Pixel to Code**  
-- Interfaces **modernas e responsivas**
-
----
-
-## ⚙️ **Back-End**
-- **PHP (Intermediário)**
-- **Python (Estudando)**
-- **Node.js + Express**
-- **REST APIs • CRUD • Autenticação**
+### 🌐 **Front-End**
+- HTML5  
+- CSS3  
+- JavaScript  
+- UI/UX  
+- Figma → Pixel to Code  
+- Interfaces modernas e responsivas
 
 ---
 
-## 📱 **Mobile**
-- **Flutter • Dart**
-- Apps funcionais com arquitetura limpa
+### ⚙️ **Back-End**
+- PHP (Intermediário)  
+- Node.js + Express  
+- Python (em estudo)  
+- REST APIs • CRUD • Autenticação  
 
 ---
 
-## 🗄 Banco de Dados
-- **MySQL**
-- **MariaDB**
-- **MongoDB (em estudo)**
+### 📱 **Mobile**
+- Flutter • Dart  
+- Apps com arquitetura limpa e performance
 
 ---
 
-## 🛠 Ferramentas
-- **VS Code**
-- **Android Studio**
-- **Git & GitHub**
-- **Postman**
-- **Docker (básico)**
+### 🗄 **Banco de Dados**
+- MySQL  
+- MariaDB  
+- MongoDB (em estudo)
 
 ---
 
-# 🔥 Estatísticas do GitHub — Modo Neon
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThomasKirmeier&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasKirmeier&layout=compact&theme=tokyonight&hide_border=true)
+### 🛠 **Ferramentas**
+- VS Code  
+- Android Studio  
+- Git & GitHub  
+- Postman  
+- Docker (básico)
 
 ---
 
-# ⚡ GitHub Streak — Hacker Sombrio
+# 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThomasKirmeier&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasKirmeier&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200)
+
+---
+
+# 🔥 GitHub Streak
 
 ![Streak](https://streak-stats.demolab.com?user=ThomasKirmeier&theme=tokyonight&hide_border=true)
 
 ---
 
-# 🌐 Gráfico de Atividade — Modo Cibernético
+# 🌐 Gráfico de Atividade
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThomasKirmeier&theme=react-dark&hide_border=true)
 
 ---
 
-# 🐍 Cobra de Contribuições — Neon Snake
+# 🐍 Cobra de Contribuições
 
 ![Snake](https://github.com/ThomasKirmeier/ThomasKirmeier/blob/output/github-contribution-grid-snake.svg)
 
@@ -107,3 +107,4 @@ Em desenvolvimento…
 ### 🖤 **Simplicidade, clareza e propósito — esse é o meu código.**
 
 </div>
+
