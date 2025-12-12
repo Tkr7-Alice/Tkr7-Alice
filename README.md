@@ -89,7 +89,8 @@ Busco melhorar meu código todos os dias, criando projetos reais e explorando no
 
 # 🐍 Cobra de Contribuições
 
-![Snake](https://raw.githubusercontent.com/Tkr7-Alice/Tkr7-Alice/output/snake.svg)
+![Snake](https://github.com/Tkr7-Alice/Tkr7-Alice/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
