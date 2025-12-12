@@ -63,11 +63,12 @@ Busco melhorar meu código todos os dias, criando projetos reais e explorando no
 
 ---
 
-# 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tkr7-Alice&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tkr7-Alice&show_icons=true&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tkr7-Alice&layout=compact&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tkr7-Alice&layout=compact&theme=dark&hide_border=true)
 
 ---
 
