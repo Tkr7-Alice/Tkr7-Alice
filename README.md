@@ -1,12 +1,16 @@
 <div align="center">
 
-![Logo](./assets/brand/logo-tkr7-circle.png)
+![Logo](./assets/brand/logo-tkr7-logo-tkr7.png)
 
-# 🌑⚡ **Thomas Kirmeier — Perfil Oficial**
+# 🌑⚡ **Tkr7-Alice — Perfil Oficial**
 
 ### Desenvolvedor Web & Mobile  
 ### Back-End em evolução • Código limpo • Alta performance  
 ### Dark Mode Lover 😎
+
+</div>
+
+---
 
 </div>
 
@@ -65,32 +69,32 @@ Busco melhorar meu código todos os dias, criando projetos reais e explorando no
 
 # 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThomasKirmeier&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Tkr7-Alice&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasKirmeier&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tkr7-Alice&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 # 🔥 GitHub Streak
 
-![Streak](https://streak-stats.demolab.com?user=ThomasKirmeier&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com?user=Tkr7-Alice&theme=tokyonight&hide_border=true)
 
 ---
 
 # 🌐 Gráfico de Atividade
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThomasKirmeier&theme=react-dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tkr7-Alice&theme=react-dark&hide_border=true)
 
 ---
 
 # 🐍 Cobra de Contribuições
 
-![Snake](https://github.com/ThomasKirmeier/ThomasKirmeier/blob/output/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/Tkr7-Alice/Tkr7-Alice/output/snake.svg)
 
 ---
 
 # 📡 Contato
-
+https://github.com/Tkr7-Alice/Tkr7-Alice
 **📧 E-mail:**  
 `thomas.kirmeier@gmail.com`
 
