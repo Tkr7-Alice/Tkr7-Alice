@@ -1,22 +1,3 @@
-<h1 align="center">
-<svg fill="none" viewBox="0 0 600 120" width="900" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .title {
-      font-size: 48px;
-      font-weight: bold;
-      fill: #00eaff;
-      text-shadow: 0 0 10px #00eaff, 0 0 20px #00eaff, 0 0 40px #00eaff;
-      animation: glow 1.5s ease-in-out infinite alternate;
-    }
-  </style>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="title">
-    THOMAS — TKR7-ALICE
-  </text>
-</svg>
-</h1>
-
-
-
 <div align="center">
 
 ![Banner](https://raw.githubusercontent.com/Tkr7-Alice/Tkr7-Alice/main/assets/brand/banner-640x320.png)
@@ -90,10 +71,8 @@
 ---
 
 ## 🐍 Snake — sua atividade no GitHub
-*(Certifique-se de ter o workflow snake.yml ativo)*
 
 ![Snake animation](https://raw.githubusercontent.com/Tkr7-Alice/Tkr7-Alice/output/snake.svg)
-
 
 ---
 
