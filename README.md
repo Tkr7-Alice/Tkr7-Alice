@@ -6,14 +6,13 @@
 
 ### Desenvolvedor Web & Mobile  
 ### Back-End em evolução • Código limpo • Alta performance  
-### Dark Mode Lover 😎  
-### Portfólio em construção — versão cyberpunk escura ⚡🌑
+### Dark Mode Lover 😎
 
 </div>
 
 ---
 
-# 🚀 Sobre Mim
+## 🚀 Sobre Mim
 
 Sou estudante de Informática para Internet no SENAC e desenvolvedor em constante evolução.  
 Busco melhorar meu código todos os dias, criando projetos reais e explorando novas tecnologias.
@@ -22,7 +21,7 @@ Busco melhorar meu código todos os dias, criando projetos reais e explorando no
 
 ---
 
-# 🧩 Tecnologias
+## 🧩 Tecnologias
 
 ### 🌐 **Front-End**
 - HTML5  
@@ -64,43 +63,27 @@ Busco melhorar meu código todos os dias, criando projetos reais e explorando no
 
 ---
 
-<div align="center">
-
-# 📊 Estatísticas — Dark Mode Ativado
-
-### Painel totalmente no tema escuro: Tokyonight + React Dark + Neon.
-
-</div>
-
----
-
-## ⭐ GitHub Stats (Dark Mode)
+# 📊 Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tkr7-Alice&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
-## 🔤 Linguagens Mais Usadas (Dark Mode)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tkr7-Alice&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🔥 GitHub Streak — Modo Hacker Sombrio
+# 🔥 GitHub Streak
 
 ![Streak](https://streak-stats.demolab.com?user=Tkr7-Alice&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🌐 Gráfico de Atividade — React Dark
+# 🌐 Gráfico de Atividade
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tkr7-Alice&theme=react-dark&hide_border=true)
 
 ---
 
-## 🐍 Cobra de Contribuições — Neon Snake  
-
-> Gerada automaticamente pelo workflow em `.github/workflows/snake.yml`
+# 🐍 Cobra de Contribuições
 
 ![Snake](https://raw.githubusercontent.com/Tkr7-Alice/Tkr7-Alice/output/github-contribution-grid-snake.svg)
 
@@ -121,7 +104,6 @@ Em desenvolvimento…
 
 <div align="center">
 
-### 🖤⚡ **Dark Mode não é estética — é estilo de vida.**
-### **Simplicidade, clareza e propósito — esse é o meu código.**
+### 🖤 **Simplicidade, clareza e propósito — esse é o meu código.**
 
 </div>
