@@ -1,110 +1,95 @@
-<div align="center">
-
-![Logo](./assets/brand/logo-tkr7-circle.png)
-
-# 🌑⚡ **Tkr7-Alice — Perfil Oficial**
-
-### Desenvolvedor Web & Mobile  
-### Back-End em evolução • Código limpo • Alta performance  
-### Dark Mode Lover 😎
-
-</div>
+<!-- BANNER / APRESENTAÇÃO -->
+<h1 align="center">👋 Olá, eu sou o Thomas — Tkr7-Alice</h1>
+<h3 align="center">Desenvolvedor em formação | Flutter • PHP • JavaScript • Python</h3>
 
 ---
 
-## 🚀 Sobre Mim
-
-Sou estudante de Informática para Internet no SENAC e desenvolvedor em constante evolução.  
-Busco melhorar meu código todos os dias, criando projetos reais e explorando novas tecnologias.
-
-> **"Estudo. Construo. Melhoro. Repito."**
-
----
-
-## 🧩 Tecnologias
-
-### 🌐 **Front-End**
-- HTML5  
-- CSS3  
-- JavaScript  
-- UI/UX  
-- Figma → Pixel to Code  
-- Interfaces modernas e responsivas
+<!-- BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Ativo-2ecc71?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Web-9b59b6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Studying-Flutter%20%7C%20Dart-3498db?style=for-the-badge">
+</p>
 
 ---
 
-### ⚙️ **Back-End**
-- PHP (Intermediário)  
-- Node.js + Express  
-- Python (em estudo)  
-- REST APIs • CRUD • Autenticação  
+## 🚀 Sobre mim
+- 🎓 Estudante de **Informática para Internet – SENAC**
+- 📱 Desenvolvimento Mobile com **Flutter/Dart**
+- 🌐 Experiência com **PHP, JavaScript, HTML, CSS e Python**
+- 🧠 Aprendendo boas práticas, Git, GitHub e pipelines
+- 🛠 Sempre evoluindo minhas skills e projetos
 
 ---
 
-### 📱 **Mobile**
-- Flutter • Dart  
-- Apps com arquitetura limpa e performance
+## 🛠️ Tecnologias & Ferramentas
 
----
+### **Linguagens**
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</p>
 
-### 🗄 **Banco de Dados**
-- MySQL  
-- MariaDB  
-- MongoDB (em estudo)
-
----
-
-### 🛠 **Ferramentas**
-- VS Code  
-- Android Studio  
-- Git & GitHub  
-- Postman  
-- Docker (básico)
+### **Ferramentas & Ambientes**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</p>
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
+### **GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tkr7-Alice&show_icons=true&theme=dark&hide_border=true)
 
-
+### **Top Langs**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tkr7-Alice&layout=compact&theme=dark&hide_border=true)
 
 ---
 
-# 🔥 GitHub Streak
+## 🐍 Snake — sua atividade no GitHub
+*(Certifique-se de ter o workflow snake.yml ativo)*
 
-![Streak](https://streak-stats.demolab.com?user=Tkr7-Alice&theme=tokyonight&hide_border=true)
-
----
-
-# 🌐 Gráfico de Atividade
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tkr7-Alice&theme=react-dark&hide_border=true)
+![Snake animation](https://raw.githubusercontent.com/Tkr7-Alice/Tkr7-Alice/output/snake.svg)
 
 ---
 
-# 🐍 Cobra de Contribuições
+## 🔥 Projetos em Destaque
 
-![Snake](https://raw.githubusercontent.com/Tkr7-Alice/Tkr7-Alice/output/github-contribution-grid-snake.svg)
+### **📱 Recicla+ (Flutter + Backend)**
+Aplicativo para conectar coletores e usuários.  
+✔ Login  
+✔ Cadastro  
+✔ Denúncia de coleta  
+✔ UI moderna no Figma  
+
+### **🌐 InfoNOW — Painel com APIs**
+✔ Clima  
+✔ Filmes  
+✔ Países  
+✔ Piadas  
+✔ Tema escuro/claro dinâmico  
+
+### **🖥️ Webnex Education — Website**
+✔ Home, Sobre, Cadastro e Login  
+✔ Design profissional  
+✔ HTML + CSS + JavaScript separados  
 
 ---
 
-# 📡 Contato
-
-**📧 E-mail:**  
-`thomas.kirmeier@gmail.com`
-
-**📱 Instagram:**  
-[@t.kirmeier](https://instagram.com/t.kirmeier)
-
-**🌐 Portfólio:**  
-Em desenvolvimento…
+## 📬 Contato
+<p>
+  <a href="https://github.com/Tkr7-Alice">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
 ---
 
-<div align="center">
-
-### 🖤 **Simplicidade, clareza e propósito — esse é o meu código.**
-
-</div>
+<h3 align="center">✨ Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus projetos.</h3>
