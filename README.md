@@ -4,10 +4,13 @@
 
 </div>
 
-
-
 ---
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=1700&pause=400&color=00F9FF&center=true&vCenter=true&repeat=true&width=900&lines=🔥+THOMAS+%E2%80%94+TKR7-ALICE+🔥;DEV+MOBILE+E+WEB;BEM-VINDO+AO+MEU+PERFIL!" />
+</h1>
+
+---
 
 <h1 align="center">👋 Olá, eu sou o Thomas — Tkr7-Alice</h1>
 <h3 align="center">Desenvolvedor em formação | Flutter • PHP • JavaScript • Python</h3>
