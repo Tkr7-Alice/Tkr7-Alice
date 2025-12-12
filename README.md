@@ -1,4 +1,5 @@
-<!-- BANNER / APRESENTAÇÃO -->
+./assets/brand/banner-640x320.png
+
 <h1 align="center">👋 Olá, eu sou o Thomas — Tkr7-Alice</h1>
 <h3 align="center">Desenvolvedor em formação | Flutter • PHP • JavaScript • Python</h3>
 
@@ -46,10 +47,10 @@
 ## 📊 Estatísticas do GitHub
 
 ### **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tkr7-Alice&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tkr7-Alice&show_icons=true&theme=tokyonight&hide_border=true)
 
 ### **Top Langs**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tkr7-Alice&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tkr7-Alice&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
