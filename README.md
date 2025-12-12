@@ -1,4 +1,11 @@
-./assets/brand/banner-640x320.png
+<div align="center">
+
+![Banner](./assets/brand/banner-640x320.png)
+
+</div>
+
+---
+
 
 <h1 align="center">👋 Olá, eu sou o Thomas — Tkr7-Alice</h1>
 <h3 align="center">Desenvolvedor em formação | Flutter • PHP • JavaScript • Python</h3>
