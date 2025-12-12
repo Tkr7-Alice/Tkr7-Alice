@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPO/main/assets/logo-tkr7-circle.png)
+![Banner](https://raw.githubusercontent.com/Tkr7-Alice/Tkr7-Alice/main/assets/brand/banner-640x320.png)
 
 
 </div>
@@ -55,10 +55,12 @@
 ## 📊 Estatísticas do GitHub
 
 ### **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tkr7-Alice&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=Tkr7-Alice&show_icons=true&theme=tokyonight&hide_border=true)
+
 
 ### **Top Langs**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tkr7-Alice&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Tkr7-Alice&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ---
 
