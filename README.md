@@ -1,8 +1,4 @@
-<div align="center">
 
-![Banner](https://raw.githubusercontent.com/Tkr7-Alice/Tkr7-Alice/main/assets/brand/banner-640x320.png)
-
-</div>
 
 <br>
 
@@ -12,6 +8,11 @@
 
 
 </div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=2000&pause=500&color=1E90FF&center=true&vCenter=true&repeat=true&width=900&lines=🔥+THOMAS+%E2%80%94+TKR7-ALICE+🔥;Desenvolvedor+Mobile+e+Web;Bem-vindo+ao+meu+perfil!" />
+</h1>
+
 
 ---
 
