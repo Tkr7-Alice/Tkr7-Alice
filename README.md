@@ -1,12 +1,8 @@
-<h1 align="center">
-  <span style="color:#8A2BE2; font-size:48px; font-weight:900; text-shadow:
-    0 0 10px #8A2BE2,
-    0 0 20px #A020F0,
-    0 0 40px #A020F0,
-    0 0 80px #A020F0;">
-    ✨ Tkr7-Alice ✨
-  </span>
-</h1>
+<div align="center">
+
+![Banner](https://raw.githubusercontent.com/Tkr7-Alice/Tkr7-Alice/main/assets/brand/banner-640x320.png)
+
+</div>
 
 <br>
 
@@ -80,6 +76,7 @@
 *(Certifique-se de ter o workflow snake.yml ativo)*
 
 ![Snake animation](https://raw.githubusercontent.com/Tkr7-Alice/Tkr7-Alice/output/snake.svg)
+
 
 ---
 
