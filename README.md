@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPO/main/assets/banner-640x320.png)
+![Banner](https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPO/main/assets/logo-tkr7-circle.png)
 
 
 </div>
