@@ -1,6 +1,7 @@
 <div align="center">
 
-![Banner](./assets/brand/banner-640x320.png)
+![Banner](https://raw.githubusercontent.com/SEU-USUARIO/SEU-REPO/main/assets/banner-640x320.png)
+
 
 </div>
 
