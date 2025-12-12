@@ -1,6 +1,6 @@
 <div align="center">
 
-![Logo](./assets/brand/logo-tkr7-logo-tkr7.png)
+![Logo](./assets/brand/logo-tkr7-circle.png)
 
 # 🌑⚡ **Tkr7-Alice — Perfil Oficial**
 
