@@ -114,6 +114,14 @@ Painel informativo consumindo múltiplas APIs, com foco em organização visual 
   <a href="https://github.com/Tkr7-Alice">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
+
+  <a href="https://www.instagram.com/tkr7.digital/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="https://wa.me/5582996089123">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
 </p>
 
 ---
