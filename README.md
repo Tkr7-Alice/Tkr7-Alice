@@ -1,7 +1,6 @@
 <div align="center">
 
-![Banner](https://raw.githubusercontent.com/Tkr7-Alice/Tkr7-Alice/main/assets/brand/banner-![Uploading banner-640x3202.png…]()
-)
+![Banner](https://raw.githubusercontent.com/Tkr7-Alice/Tkr7-Alice/main/assets/brand/banner-banner-640x3202-2.png)
 
 </div>
 
