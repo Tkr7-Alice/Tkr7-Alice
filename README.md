@@ -15,9 +15,7 @@
 
 <div align="center">
 
-<img 
-  src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=1800&pause=600&color=00FF41&center=true&vCenter=true&repeat=true&width=800&lines=%5BACCESS+GRANTED%5D+⚡+TKR7-ALICE+ONLINE;FULLSTACK+IN+PROGRESS...;MOBILE+%7C+WEB+%7C+BACKEND+%7C+UI%2FUX;BUILDING+SYSTEMS...;EXECUTING+PROJECTS...;UPGRADING+SKILLS..." 
-/>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=1800&pause=600&color=00FF41&center=true&vCenter=true&repeat=true&width=800&lines=ACCESS+GRANTED+TKR7-ALICE+ONLINE;FULLSTACK+IN+PROGRESS;WEB+MOBILE+BACKEND+UIUX;BUILDING+SYSTEMS;EXECUTING+PROJECTS;UPGRADING+SKILLS)
 
 </div>
 
