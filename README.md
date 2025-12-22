@@ -4,110 +4,115 @@
   <img src="./assets/brand/banner-640x3202-2.png" alt="Banner Tkr7" />
 </p>
 
-
 </div>
 
 ---
 
-
-<h1 align="center">👋 Olá, eu sou o Thomas — Tkr7-Alice</h1>
-<h3 align="center">Desenvolvedor em formação | Flutter • PHP • JavaScript • Python</h3>
+<h1 align="center">👋 Olá, eu sou Thomas Kirmeier</h1>
+<h3 align="center">Desenvolvedor em formação | Web & Mobile | Flutter • Backend</h3>
 
 ---
 
 <div align="center">
 
-  <!-- Texto Hacker Futurista -->
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=1800&pause=600&color=00FF41&center=true&vCenter=true&repeat=true&width=800&lines=%5BACCESS+GRANTED%5D+%E2%9A%A1+TKR7-ALICE+ONLINE;FULLSTACK+IN+PROGRESS...;MOBILE+%7C+WEB+%7C+BACKEND+%7C+UI%2FUX;BUILDING+SYSTEMS...;EXECUTING+PROJECTS...;UPGRADING+SKILLS..." 
-  />
+<img 
+  src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=1800&pause=600&color=00FF41&center=true&vCenter=true&repeat=true&width=800&lines=%5BACCESS+GRANTED%5D+⚡+TKR7-ALICE+ONLINE;FULLSTACK+IN+PROGRESS...;MOBILE+%7C+WEB+%7C+BACKEND+%7C+UI%2FUX;BUILDING+SYSTEMS...;EXECUTING+PROJECTS...;UPGRADING+SKILLS..." 
+/>
 
 </div>
 
 ---
 
-<!-- BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Ativo-2ecc71?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Web-9b59b6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Studying-Flutter%20%7C%20Dart-3498db?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Web%20%26%20Mobile-9b59b6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Main%20Stack-Flutter-3498db?style=for-the-badge">
 </p>
 
 ---
 
 ## 🚀 Sobre mim
-- 🎓 Estudante de **Informática para Internet – SENAC**
-- 📱 Desenvolvimento Mobile com **Flutter/Dart**
-- 🌐 Experiência com **PHP, JavaScript, HTML, CSS e Python**
-- 🧠 Aprendendo boas práticas, Git, GitHub e pipelines
-- 🛠 Sempre evoluindo minhas skills e projetos
+
+Sou desenvolvedor em formação com foco em aplicações **Web e Mobile**, atuando desde o design de interfaces até a implementação de funcionalidades e versionamento de código.
+
+Tenho experiência prática com **Flutter, PHP e JavaScript**, utilizando **Figma** para prototipação e **Git/GitHub** para controle de versão e organização de projetos.
+
+### 🎯 Atualmente busco:
+- Aprimorar arquitetura e organização de projetos  
+- Consolidar boas práticas de backend  
+- Oportunidade de **estágio ou experiência profissional** na área  
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### **Linguagens**
-<p>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</p>
+### **Mobile**
+Flutter • Dart
 
-### **Ferramentas & Ambientes**
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</p>
+### **Web / Backend**
+HTML • CSS • JavaScript • PHP
 
----
-
-## 📊 Estatísticas do GitHub
-
-### **GitHub Stats**
-![GitHub Stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=Tkr7-Alice&show_icons=true&theme=tokyonight&hide_border=true)
-
-
-### **Top Langs**
-![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Tkr7-Alice&layout=compact&theme=tokyonight&hide_border=true)
-
-
----
-
-## 🐍 Snake — sua atividade no GitHub
-
-![Snake animation](https://raw.githubusercontent.com/Tkr7-Alice/Tkr7-Alice/output/snake.svg)
+### **Ferramentas**
+Git • GitHub • Figma • VS Code
 
 ---
 
 ## 🔥 Projetos em Destaque
 
-### **📱 Recicla+ (Flutter + Backend)**
-Aplicativo para conectar coletores e usuários.  
-✔ Login  
-✔ Cadastro  
-✔ Denúncia de coleta  
-✔ UI moderna no Figma  
+### 📱 **Recicla+**
+Aplicativo mobile desenvolvido em **Flutter**, com foco em conectar coletores e usuários para facilitar o processo de reciclagem.
 
-### **🌐 InfoNOW — Painel com APIs**
-✔ Clima  
-✔ Filmes  
-✔ Países  
-✔ Piadas  
-✔ Tema escuro/claro dinâmico  
+**Principais funcionalidades:**
+- Login e cadastro de usuários  
+- Denúncia e solicitação de coleta  
+- Interface moderna prototipada no Figma  
 
-### **🖥️ Webnex Education — Website**
-✔ Home, Sobre, Cadastro e Login  
-✔ Design profissional  
-✔ HTML + CSS + JavaScript separados  
+🔗 Repositório:  
+https://github.com/Tkr7-Alice/recicla_mais
+
+---
+
+### 🌐 **Projeto PI — SUPA**
+Projeto acadêmico com proposta diferenciada, focado em estruturação de sistema, organização de código e aplicação de conceitos estudados durante o curso.
+
+🔗 Repositório:  
+https://github.com/Tkr7-Alice/Projeto_PI_supa
+
+---
+
+### 🖥️ **InfoNOW — Painel Web**
+Painel informativo consumindo múltiplas APIs, com foco em organização visual e experiência do usuário.
+
+**Funcionalidades:**
+- Clima, filmes, países e dados dinâmicos  
+- Tema escuro/claro  
+- Estrutura web separada (HTML, CSS e JavaScript)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Tkr7-Alice&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Tkr7-Alice&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Atividade no GitHub
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tkr7-Alice/Tkr7-Alice/output/snake.svg" />
+</p>
 
 ---
 
 ## 📬 Contato
-<p>
+
+<p align="center">
   <a href="https://github.com/Tkr7-Alice">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
@@ -115,4 +120,4 @@ Aplicativo para conectar coletores e usuários.
 
 ---
 
-<h3 align="center">✨ Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus projetos.</h3>
+<h3 align="center">✨ Obrigado por visitar meu perfil. Fique à vontade para explorar meus projetos!</h3>
