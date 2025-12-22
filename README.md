@@ -1,6 +1,9 @@
 <div align="center">
 
-![Banner](./assets/brand/banner-banner-640x3202-2.png)
+<p align="center">
+  <img src="./assets/brand/banner-640x3202-2.png" alt="Banner Tkr7" />
+</p>
+
 
 </div>
 
