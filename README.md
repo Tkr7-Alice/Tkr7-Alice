@@ -1,59 +1,52 @@
 <div align="center">
 
-<p align="center">
-  <img src="./assets/brand/banner-640x3202-2.png" alt="Banner TKR7" />
-</p>
+<img src="./assets/brand/banner-640x3202-2.png" alt="Banner TKR7" />
 
 </div>
 
 ---
 
-<h1 align="center">👋 Olá, eu sou Thomas Kirmeier</h1>
-<h3 align="center">Desenvolvedor Web & Mobile | Flutter • Backend • UI/UX</h3>
-
----
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=1800&pause=600&color=00FF41&center=true&vCenter=true&repeat=true&width=800&lines=ACCESS+GRANTED+⚡+TKR7+ONLINE;FULLSTACK+IN+PROGRESS;WEB+%7C+MOBILE+%7C+BACKEND+%7C+UI%2FUX;BUILDING+SYSTEMS;EXECUTING+PROJECTS;UPGRADING+SKILLS)
-
-</div>
-
----
+<h1 align="center">👋 Thomas Kirmeier</h1>
+<h3 align="center">
+Desenvolvedor Web & Mobile | Python • Flutter • Backend
+</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Ativo-2ecc71?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Focus-Web%20%26%20Mobile-9b59b6?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Main%20Stack-Flutter-3498db?style=for-the-badge">
+Construindo sistemas simples, funcionais e bem estruturados.
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor com foco em aplicações **Web e Mobile**, atuando desde a **concepção visual (UI/UX)** até a **implementação funcional e versionamento de código**.
+Sou desenvolvedor com foco em **aplicações Web e Mobile**, atuando desde a **concepção visual (UI/UX)** até a **implementação funcional e organização do código**.
 
-Tenho experiência prática com **Flutter, PHP e JavaScript**, utilizando **Figma** para prototipação e **Git/GitHub** para controle de versão, organização e colaboração em projetos.
+Tenho experiência prática com **Flutter** e desenvolvimento web, e atualmente estou **aprofundando meus estudos em Python**, linguagem que escolhi como base para meus próximos projetos, especialmente em **backend, automações e APIs**.
 
-Busco evolução constante em **arquitetura de software**, **boas práticas de backend** e **qualidade de código**, sempre aplicando na prática o que estudo.
+Busco evolução constante em **arquitetura de software**, **boas práticas**, **organização de projetos** e **qualidade de código**, sempre aplicando na prática o que estudo.
 
-### 🎯 Atualmente busco:
-- Evoluir arquitetura e organização de projetos  
-- Consolidar boas práticas de backend  
-- Oportunidades como **freelancer**, **estágio** ou **experiência profissional**  
+### 🎯 Atualmente focado em:
+- Python aplicado a projetos reais  
+- Estruturação de backend e APIs  
+- Organização e arquitetura de sistemas  
+- Oportunidades como **freelancer**, **estágio** ou **experiência profissional**
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Stack & Tecnologias
+
+### **Backend / Lógica**
+- Python *(em aprendizado contínuo)*
 
 ### **Mobile**
-Flutter • Dart
+- Flutter • Dart
 
-### **Web / Backend**
-HTML • CSS • JavaScript • PHP
+### **Web**
+- HTML • CSS • JavaScript  
+- PHP *(experiência prévia)*
 
 ### **Ferramentas**
-Git • GitHub • Figma • VS Code
+- Git • GitHub • Figma • VS Code
 
 ---
 
@@ -70,10 +63,12 @@ Aplicação desenvolvida em **Flutter**, com backend integrado, voltada à conex
 🔗 Repositório:  
 https://github.com/Tkr7-Alice/recicla_mais
 
+> Projeto desenvolvido antes da migração de foco para Python, com forte aprendizado em organização de app e integração backend.
+
 ---
 
 ### 🌐 **Projeto PI — SUPA**
-Projeto acadêmico com proposta diferenciada, focado em **estruturação de sistema**, **organização de código** e aplicação prática de conceitos de engenharia de software.
+Projeto acadêmico focado em **estruturação de sistema**, **organização de código** e aplicação prática de conceitos de engenharia de software.
 
 🔗 Repositório:  
 https://github.com/Tkr7-Alice/Projeto_PI_supa
@@ -81,7 +76,7 @@ https://github.com/Tkr7-Alice/Projeto_PI_supa
 ---
 
 ### 🖥️ **InfoNOW — Painel Web**
-Painel informativo desenvolvido para consumo de múltiplas APIs, com foco em **organização visual**, **experiência do usuário** e boas práticas em front-end.
+Painel web para consumo de múltiplas APIs, com foco em **experiência do usuário** e **organização de código front-end**.
 
 **Funcionalidades:**
 - Clima, filmes, países e dados dinâmicos
@@ -90,7 +85,7 @@ Painel informativo desenvolvido para consumo de múltiplas APIs, com foco em **o
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Tkr7-Alice&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -131,9 +126,11 @@ Painel informativo desenvolvido para consumo de múltiplas APIs, com foco em **o
 </p>
 
 <p align="center">
-  💼 Disponível para <strong>freelancer</strong>, <strong>projetos web/mobile</strong> e <strong>oportunidades profissionais</strong>
+💼 Disponível para <strong>freelancer</strong>, <strong>projetos web/mobile</strong> e <strong>oportunidades profissionais</strong>
 </p>
 
 ---
 
-<h3 align="center">✨ Obrigado por visitar meu perfil. Fique à vontade para explorar meus projetos!</h3>
+<h3 align="center">
+✨ Em constante evolução, focado em aprender, construir e melhorar a cada projeto.
+</h3>
