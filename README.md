@@ -1,87 +1,76 @@
 <div align="center">
-
-<img src="./assets/brand/banner-640x3202-2.png" alt="Banner TKR7" />
-
+  <img src="./assets/brand/banner-640x3202-2.png" alt="Banner TKR7" />
 </div>
 
 ---
 
-<h1 align="center">👋 Thomas Kirmeier</h1>
-<h3 align="center">
-Desenvolvedor Web & Mobile | Python • Flutter • Backend
-</h3>
+<h1 align="center">Thomas Kirmeier</h1>
 
 <p align="center">
-Construindo sistemas simples, funcionais e bem estruturados.
+Desenvolvedor focado em <strong>Backend, APIs e Arquitetura de Sistemas</strong>
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 Sobre
 
-Sou desenvolvedor com foco em **aplicações Web e Mobile**, atuando desde a **concepção visual (UI/UX)** até a **implementação funcional e organização do código**.
+Atualmente focado em desenvolvimento backend com **Python**, criando sistemas bem estruturados, seguros e escaláveis.
 
-Tenho experiência prática com **Flutter** e desenvolvimento web, e atualmente estou **aprofundando meus estudos em Python**, linguagem que escolhi como base para meus próximos projetos, especialmente em **backend, automações e APIs**.
+Tenho experiência com aplicações **web e mobile**, mas hoje concentro meus estudos em:
+- APIs profissionais (FastAPI)
+- Arquitetura em camadas (service, repository, domain)
+- Segurança e boas práticas (JWT, validação, sanitização)
+- Estruturação de projetos SaaS
 
-Busco evolução constante em **arquitetura de software**, **boas práticas**, **organização de projetos** e **qualidade de código**, sempre aplicando na prática o que estudo.
-
-### 🎯 Atualmente focado em:
-- Python aplicado a projetos reais  
-- Estruturação de backend e APIs  
-- Organização e arquitetura de sistemas  
-- Oportunidades como **freelancer**, **estágio** ou **experiência profissional**
+Busco evoluir para atuar com **sistemas reais**, aplicando padrão profissional desde a base.
 
 ---
 
-## 🛠️ Stack & Tecnologias
+## 🧠 Foco Atual
 
-### **Backend / Lógica**
-- Python *(em aprendizado contínuo)*
+- Backend com Python (FastAPI)
+- Arquitetura de software (clean architecture / layered)
+- Construção de APIs escaláveis
+- Projetos SaaS (multi-tenant)
 
-### **Mobile**
+---
+
+## 🛠️ Stack
+
+**Backend**
+- Python • FastAPI
+
+**Web / Base**
+- HTML • CSS • JavaScript
+
+**Mobile**
 - Flutter • Dart
 
-### **Web**
-- HTML • CSS • JavaScript  
-- PHP *(experiência prévia)*
-
-### **Ferramentas**
-- Git • GitHub • Figma • VS Code
+**Ferramentas**
+- Git • GitHub • VS Code • Figma
 
 ---
 
-## 🔥 Projetos em Destaque
+## 📌 Projetos
 
-### 📱 **Recicla+ — Aplicativo Mobile**
-Aplicação desenvolvida em **Flutter**, com backend integrado, voltada à conexão entre usuários e coletores para facilitar o processo de reciclagem.
-
-**Funcionalidades:**
-- Autenticação (login e cadastro)
-- Solicitação e denúncia de coleta
-- Interface moderna baseada em prototipação no Figma
-
-🔗 Repositório:  
-https://github.com/Tkr7-Alice/recicla_mais
-
-> Projeto desenvolvido antes da migração de foco para Python, com forte aprendizado em organização de app e integração backend.
+### 🔹 WebPonto SaaS *(em evolução)*
+Sistema SaaS de controle de ponto com arquitetura profissional:
+- Multi-empresa (multi-tenant)
+- Controle de acesso por perfil
+- Registro de ponto com validações
+- Backend estruturado (services + repositories)
 
 ---
 
-### 🌐 **Projeto PI — SUPA**
-Projeto acadêmico focado em **estruturação de sistema**, **organização de código** e aplicação prática de conceitos de engenharia de software.
+### 🔹 Recicla+
+App mobile desenvolvido em Flutter com integração backend.
 
-🔗 Repositório:  
-https://github.com/Tkr7-Alice/Projeto_PI_supa
+🔗 https://github.com/Tkr7-Alice/recicla_mais
 
 ---
 
-### 🖥️ **InfoNOW — Painel Web**
-Painel web para consumo de múltiplas APIs, com foco em **experiência do usuário** e **organização de código front-end**.
-
-**Funcionalidades:**
-- Clima, filmes, países e dados dinâmicos
-- Tema claro/escuro
-- Estrutura organizada (HTML, CSS e JavaScript separados)
+### 🔹 InfoNOW
+Painel web consumindo APIs públicas com foco em UI e organização.
 
 ---
 
@@ -97,7 +86,7 @@ Painel web para consumo de múltiplas APIs, com foco em **experiência do usuár
 
 ---
 
-## 🐍 Atividade no GitHub
+## 🐍 Atividade
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tkr7-Alice/Tkr7-Alice/output/snake.svg" />
@@ -125,12 +114,8 @@ Painel web para consumo de múltiplas APIs, com foco em **experiência do usuár
   </a>
 </p>
 
-<p align="center">
-💼 Disponível para <strong>freelancer</strong>, <strong>projetos web/mobile</strong> e <strong>oportunidades profissionais</strong>
-</p>
-
 ---
 
-<h3 align="center">
-✨ Em constante evolução, focado em aprender, construir e melhorar a cada projeto.
-</h3>
+<p align="center">
+Disponível para <strong>freelancer</strong> e oportunidades em <strong>backend / desenvolvimento web</strong>
+</p>
